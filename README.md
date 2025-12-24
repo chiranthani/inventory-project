@@ -1,4 +1,4 @@
-# Encore Inventory Project
+# Inventory Project
 
 A Laravel-based UI prototype for an inventory management system using dummy JSON data (no database connection required).
 
